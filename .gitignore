@@ -1,0 +1,16 @@
+# Ignore cache files
+cache/
+*.tmp
+*.log
+
+# Ignore autosave files
+*.autosave
+
+# Ignore PrusaSlicer update files if present
+update/
+
+# Ignore temporary files for macOS
+.DS_Store
+
+# Ignore files with machine-specific configurations
+*.ini~  # Backup files ending with ~
