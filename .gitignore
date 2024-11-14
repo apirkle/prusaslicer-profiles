@@ -6,6 +6,9 @@ cache/
 # Ignore autosave files
 *.autosave
 
+# Ignore config backups in snapshots/
+snapshots/
+
 # Ignore PrusaSlicer update files if present
 update/
 
